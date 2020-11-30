@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nim_game/static/css/main.3522beb0.chunk.css",
+    "main.js": "/nim_game/static/js/main.5e09102f.chunk.js",
+    "main.js.map": "/nim_game/static/js/main.5e09102f.chunk.js.map",
+    "runtime-main.js": "/nim_game/static/js/runtime-main.838f056a.js",
+    "runtime-main.js.map": "/nim_game/static/js/runtime-main.838f056a.js.map",
+    "static/js/2.3e396ac6.chunk.js": "/nim_game/static/js/2.3e396ac6.chunk.js",
+    "static/js/2.3e396ac6.chunk.js.map": "/nim_game/static/js/2.3e396ac6.chunk.js.map",
+    "static/js/3.d1f5434e.chunk.js": "/nim_game/static/js/3.d1f5434e.chunk.js",
+    "static/js/3.d1f5434e.chunk.js.map": "/nim_game/static/js/3.d1f5434e.chunk.js.map",
+    "index.html": "/nim_game/index.html",
+    "static/css/main.3522beb0.chunk.css.map": "/nim_game/static/css/main.3522beb0.chunk.css.map",
+    "static/js/2.3e396ac6.chunk.js.LICENSE.txt": "/nim_game/static/js/2.3e396ac6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/nim_game/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.838f056a.js",
+    "static/js/2.3e396ac6.chunk.js",
+    "static/css/main.3522beb0.chunk.css",
+    "static/js/main.5e09102f.chunk.js"
+  ]
+}
