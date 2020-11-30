@@ -1,0 +1,17 @@
+.circleBall {
+  color: red;
+  display: inline-block;
+  /* color: !this.props.color ? "blue" : "red"; */
+  height: 35px;
+  width: 60px;
+  /* margin: 40px; */
+  position: relative;
+  font-size: 28px;
+  background-color: green;
+  border: 2;
+  border-style: solid;
+  border-radius: 50%;
+  text-align: center;
+  transition: transform 0.8s, width 1s, height 1s, padding 0.6s;
+  transform-style: preserve-3d;
+}
